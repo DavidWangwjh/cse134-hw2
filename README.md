@@ -1,1 +1,3 @@
-# cse134-hw2
+# CSE134B-SS22-HW2
+# Name: David Wang
+# PID: A17208720
